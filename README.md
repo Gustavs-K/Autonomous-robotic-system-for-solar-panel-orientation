@@ -7,5 +7,5 @@ Student authors:
 ## Contents
 - elekShema.png - Main system electrical diagram
 - robot_code.ino - Robot code (in C++)
-- practical_test_1.mp4 - Video of a practical test on the robots functions
+- Prototype images & videos / ... - Videos and images of the practical prototype
 - Atskaite.docx - Project report (in Latvian)
