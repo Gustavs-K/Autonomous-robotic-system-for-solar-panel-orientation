@@ -5,3 +5,6 @@ Student authors:
   - Eduards Mareks Bērziņš
   - Gustavs Krūzmanis
 ## Contents
+- elekShema.png - Main system electrical diagram
+- robot_code.ino - Robot code (in C++)
+- Atskaite.docx - Project report (in Latvian)
